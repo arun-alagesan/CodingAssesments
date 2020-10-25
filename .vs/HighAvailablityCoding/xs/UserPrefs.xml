@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HighAvailablityCoding/Models/Host.cs">
+    <Files>
+      <File FileName="HighAvailablityCoding/Cluster.cs" Line="96" Column="15" />
+      <File FileName="HighAvailablityCoding/Program.cs" Line="50" Column="14" />
+      <File FileName="HighAvailablityCoding/HighAvailablityRunner.cs" Line="65" Column="10" />
+      <File FileName="HighAvailablityCoding/Index.cs" Line="31" Column="29" />
+      <File FileName="HighAvailablityCoding/Models/Host.cs" Line="26" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HighAvailablityCoding" expanded="True">
+            <Node name="HighAvailablityCoding" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Host.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="HighAvailablityCoding" expanded="True" selected="True">
+            <Node name="HighAvailablityTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HighAvailablityCoding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

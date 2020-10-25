@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighAvailablityCoding", "HighAvailablityCoding\HighAvailablityCoding.csproj", "{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighAvailablityTest", "HighAvailablityTest\HighAvailablityTest.csproj", "{C3537B4D-F224-4D08-BBDF-5B98B8379FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}.Debug|x86.ActiveCfg = Debug|x86
+		{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}.Debug|x86.Build.0 = Debug|x86
+		{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}.Release|x86.ActiveCfg = Release|x86
+		{CDCDA415-6EF8-4FDA-872A-04AF8EDFAF59}.Release|x86.Build.0 = Release|x86
+		{C3537B4D-F224-4D08-BBDF-5B98B8379FCB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3537B4D-F224-4D08-BBDF-5B98B8379FCB}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3537B4D-F224-4D08-BBDF-5B98B8379FCB}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3537B4D-F224-4D08-BBDF-5B98B8379FCB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
